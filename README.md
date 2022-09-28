@@ -1,6 +1,6 @@
 # Docker with Run:ai (with Jupyter example)  
   
-**A 16-minute video of a live demo can be found [here](https://vimeo.com/745874951)**  
+**A 16-minute video of a live demo can be found [here](https://youtu.be/u3VuJobU-k8)**  
   
 Presentation files can be found [here](/docs)  
     
